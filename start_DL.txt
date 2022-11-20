@@ -1,0 +1,6 @@
+.compile download.pro
+download, plate='1582', mjd='52939', fiberid='0612'
+download, plate='0307', mjd='51663', fiberid='0011'
+download, plate='2531', mjd='54572', fiberid='0001'
+download, plate='3006', mjd='54632', fiberid='0605'
+download, plate='1108', mjd='53227', fiberid='0014'
